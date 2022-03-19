@@ -1,0 +1,6 @@
+org\guihai\wr\wallrun\events\Blocks.class
+org\guihai\wr\wallrun\events\onPlayerLeaveOrJoin.class
+org\guihai\wr\wallrun\events\onWin.class
+org\guihai\wr\wallrun\Scoreboard.class
+org\guihai\wr\wallrun\events\BlocksPlacedByPlayers.class
+org\guihai\wr\wallrun\WallRun.class

@@ -1,0 +1,4 @@
+name: WallRun
+version: ''
+main: org.guihai.wr.wallrun.WallRun
+api-version: 1.18
